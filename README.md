@@ -1,7 +1,7 @@
 <!-- HERO SECTION -->
 
 <div align="center" style="width:100%;">
-<img src="https://drive.google.com/uc?export=view&id=1yi8hjPb2-7PgC6U4k8JWNhnG5tZ65Wei" 
+<img src="https://drive.google.com/uc?export=view&id=1yi8hjPb2-1DxZIkA1LVlOzuNIIfY3UPmTm8oSKDiIT" 
 style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" alt="Mishva Boda Banner" />
 </div>
 
